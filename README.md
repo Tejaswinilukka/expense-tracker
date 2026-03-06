@@ -108,4 +108,4 @@ This project was built to practice frontend development and learn how to manage 
 
 ## 👩‍💻 Author
 Tejaswini
->>>>>>> 851cb5261c1cfe7f5e6616c6fca6a0f709f33551
+
